@@ -17,7 +17,7 @@ Quick links
 Quick Usage
 ===========
 
-See `examples <https://github.com/thulasi-ram/diff-and-patch/examples>`_
+See `examples <https://github.com/thulasi-ram/diff-and-patch/tree/master/examples>`_
 
 
 ::
